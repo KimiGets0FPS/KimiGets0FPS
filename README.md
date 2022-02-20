@@ -54,7 +54,7 @@ remember everything (this was also an issue for Java ofcourse).
 ## HTML Experience
 
 Well, I first started coding in HTML thinking that it was so easy to integrate Python with the website, but it's harder
-(obviously) harder than I thought. [Website](https://us-east-1.tixte.net/uploads/kimigets0fps.needs.rest/home.html.
+(obviously) harder than I thought. [Website](https://us-east-1.tixte.net/uploads/kimigets0fps.needs.rest/home.html)
 
 > A pretty easy programming language
 

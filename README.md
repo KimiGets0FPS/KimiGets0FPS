@@ -4,15 +4,14 @@
 
 ## About me
 
-Hi! Whoever you are, you are one of the few people who actually stumble upon my GitHub page.
-
-Anyway, my name is Kimi, and I currently live in the U.S. and I've been coding for the past 2 years due to covid
+My name is Zhewei, more well known as Kimi, and I currently live in the U.S. and I've been coding for the past 2 years due to covid
 
 ## Overall Coding experience
 
-I enjoy coding, but I don't just don't like training consistently on it. I like to keep it as a hobby and come to it
-whenever I feel like it. I'm not the type of guy who would give an exact answer, but coding is pretty fun and if you
+I enjoy coding, and I like to keep it as a hobby and come to it whenever I feel like it. Coding is pretty fun and if you
 have an interest, go for it because you can learn a lot :)
+
+Coding <333
 
 ## Python Experience
 
@@ -54,7 +53,8 @@ remember everything (this was also an issue for Java ofcourse).
 ## HTML Experience
 
 Well, I first started coding in HTML thinking that it was so easy to integrate Python with the website, but it's harder
-(obviously) harder than I thought. [Website](https://us-east-1.tixte.net/uploads/kimigets0fps.needs.rest/home.html)
+(obviously) harder than I thought. [Website](https://us-east-1.tixte.net/uploads/kimigets0fps.needs.rest/home.html) 
+WEBSITE WARNING: VERY OUTDATED (and very cringey)!!!
 
 > A pretty easy programming language
 
@@ -68,5 +68,3 @@ I first started using this language was because of a game engine called Unity. B
 this project private (which is why you can't see it)
 
 > Basically C++ but with a large library for game developing (if used with Unity and don't quote me on this)
-
-
